@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+.size{
+    width:286px;
+    height: 160px;
+    background-color:#212529 !important ;
+}
+.item {
+   
+    padding: 30px 15px;
+    border-radius: 23px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+   }
+
+.totalLikes{
+text-align: center;
+font-family: 'Playfair Display', serif;
+}
